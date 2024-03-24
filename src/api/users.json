@@ -1,0 +1,32 @@
+[
+    {
+        "userId": "55",
+        "name": "Alan",
+        "fLastName": "Montiel",
+        "mLastName": "Aviles"
+    },
+    {
+        "userId": "66",
+        "name": "Mauricio",
+        "fLastName": "Perez",
+        "mLastName": "Martinez"
+    },
+    {
+        "userId": "77",
+        "name": "Maria",
+        "fLastName": "Flores",
+        "mLastName": "Gallardo"
+    },
+    {
+        "userId": "88",
+        "name": "Pablo",
+        "fLastName": "Ibarra",
+        "mLastName": "Duran"
+    },
+    {
+        "userId": "99",
+        "name": "Hector",
+        "fLastName": "Garro",
+        "mLastName": "Bautista"
+    }
+]
